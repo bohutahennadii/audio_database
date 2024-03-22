@@ -12,3 +12,9 @@ This dataset can be used for the following purposes:
 - Research: Use audio files to analyze sound, study the properties of sounds, and develop sound processing algorithms.
 - Training: Use data to train machine learning models or neural networks in audio processing.
 - Creativity: Integrate these sounds into your designs, music, audio visualizations, and other creative applications.
+
+## Main Focus
+The main focus of the research is on identifying statistically significant differences between generated and real speech, which is of great importance for the further development of automatic speech recognition systems. 
+
+## Results
+The analysis demonstrates potential applications of the dataset in a wide range of areas, from combating misinformation to supporting linguistic diversity and cultural heritage. 
